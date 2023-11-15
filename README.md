@@ -1,4 +1,5 @@
 # qb-radialmenu
-qb-radialmenu desenvolvido para melhor entendimento e acesso dos usuários, alterações realizadas diretamente do qb-radialmenu padrão da framework.
 
-para mais informações: https://discord.gg/HyZsMYTm65
+Radialmenu inspired by nopixel, fully editable.
+
+For more information, send me a message on discord: hatelyzz
